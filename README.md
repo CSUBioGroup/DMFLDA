@@ -29,6 +29,7 @@ scipy==0.18.1
   
 
 # Citation
+Min Zeng, Chengqian Lu, Zhihui Fei, Fang-Xiang Wu, Yaohang Li, Jianxin Wang and Min Li*. DMFLDA: A deep learning framework for predicting lncRNA–disease associations. IEEE/ACM transactions on computational biology and bioinformatics, DOI: 10.1109/TCBB.2020.2983958.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
